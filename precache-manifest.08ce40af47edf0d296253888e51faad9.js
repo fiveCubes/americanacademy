@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "822344f990721373f12687ce275118bb",
+    "revision": "61b1d40f4a11a823344552fb5f21939c",
     "url": "/americanacademy/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/americanacademy/static/css/2.69121389.chunk.css"
   },
   {
-    "revision": "f527ef25cf0bdb06d1d1",
-    "url": "/americanacademy/static/css/main.f0be4c55.chunk.css"
+    "revision": "12809231d205d2a63f68",
+    "url": "/americanacademy/static/css/main.923ffbac.chunk.css"
   },
   {
     "revision": "940e04c20dd20ab1a893",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/americanacademy/static/js/2.c0588b0b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f527ef25cf0bdb06d1d1",
+    "revision": "12809231d205d2a63f68",
     "url": "/americanacademy/static/js/main.6f908b5f.chunk.js"
   },
   {
