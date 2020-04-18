@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/americanacademy/static/css/main.d1b05096.chunk.css",
-    "main.js": "/americanacademy/static/js/main.e0faf3e2.chunk.js",
-    "main.js.map": "/americanacademy/static/js/main.e0faf3e2.chunk.js.map",
+    "main.css": "/americanacademy/static/css/main.6715afb1.chunk.css",
+    "main.js": "/americanacademy/static/js/main.7d53e1cd.chunk.js",
+    "main.js.map": "/americanacademy/static/js/main.7d53e1cd.chunk.js.map",
     "runtime-main.js": "/americanacademy/static/js/runtime-main.c39b648d.js",
     "runtime-main.js.map": "/americanacademy/static/js/runtime-main.c39b648d.js.map",
-    "static/js/2.48ae9fbd.chunk.js": "/americanacademy/static/js/2.48ae9fbd.chunk.js",
-    "static/js/2.48ae9fbd.chunk.js.map": "/americanacademy/static/js/2.48ae9fbd.chunk.js.map",
+    "static/css/2.69121389.chunk.css": "/americanacademy/static/css/2.69121389.chunk.css",
+    "static/js/2.c0588b0b.chunk.js": "/americanacademy/static/js/2.c0588b0b.chunk.js",
+    "static/js/2.c0588b0b.chunk.js.map": "/americanacademy/static/js/2.c0588b0b.chunk.js.map",
     "index.html": "/americanacademy/index.html",
-    "precache-manifest.ea566426dde1d085ecb3d17b54b44d03.js": "/americanacademy/precache-manifest.ea566426dde1d085ecb3d17b54b44d03.js",
+    "precache-manifest.91279b078e09c1a7231f17b92210bd09.js": "/americanacademy/precache-manifest.91279b078e09c1a7231f17b92210bd09.js",
     "service-worker.js": "/americanacademy/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/americanacademy/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.48ae9fbd.chunk.js.LICENSE.txt": "/americanacademy/static/js/2.48ae9fbd.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/americanacademy/static/media/logo.5d5d9eef.svg"
+    "static/css/2.69121389.chunk.css.map": "/americanacademy/static/css/2.69121389.chunk.css.map",
+    "static/css/main.6715afb1.chunk.css.map": "/americanacademy/static/css/main.6715afb1.chunk.css.map",
+    "static/js/2.c0588b0b.chunk.js.LICENSE.txt": "/americanacademy/static/js/2.c0588b0b.chunk.js.LICENSE.txt",
+    "static/media/Cover.css": "/americanacademy/static/media/cover.978186b1.svg",
+    "static/media/logo.jpeg": "/americanacademy/static/media/logo.ecc1766d.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.c39b648d.js",
-    "static/js/2.48ae9fbd.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.e0faf3e2.chunk.js"
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.c0588b0b.chunk.js",
+    "static/css/main.6715afb1.chunk.css",
+    "static/js/main.7d53e1cd.chunk.js"
   ]
 }
