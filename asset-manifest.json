@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/americanacademy/static/css/main.4b3b48f6.chunk.css",
+    "main.css": "/americanacademy/static/css/main.f0be4c55.chunk.css",
     "main.js": "/americanacademy/static/js/main.6f908b5f.chunk.js",
     "main.js.map": "/americanacademy/static/js/main.6f908b5f.chunk.js.map",
     "runtime-main.js": "/americanacademy/static/js/runtime-main.c39b648d.js",
@@ -9,10 +9,10 @@
     "static/js/2.c0588b0b.chunk.js": "/americanacademy/static/js/2.c0588b0b.chunk.js",
     "static/js/2.c0588b0b.chunk.js.map": "/americanacademy/static/js/2.c0588b0b.chunk.js.map",
     "index.html": "/americanacademy/index.html",
-    "precache-manifest.8b90f52c98e161e94081d222d1f718de.js": "/americanacademy/precache-manifest.8b90f52c98e161e94081d222d1f718de.js",
+    "precache-manifest.1151a369e97393e82d79c562c54f2139.js": "/americanacademy/precache-manifest.1151a369e97393e82d79c562c54f2139.js",
     "service-worker.js": "/americanacademy/service-worker.js",
     "static/css/2.69121389.chunk.css.map": "/americanacademy/static/css/2.69121389.chunk.css.map",
-    "static/css/main.4b3b48f6.chunk.css.map": "/americanacademy/static/css/main.4b3b48f6.chunk.css.map",
+    "static/css/main.f0be4c55.chunk.css.map": "/americanacademy/static/css/main.f0be4c55.chunk.css.map",
     "static/js/2.c0588b0b.chunk.js.LICENSE.txt": "/americanacademy/static/js/2.c0588b0b.chunk.js.LICENSE.txt",
     "static/media/Cover.css": "/americanacademy/static/media/cover.978186b1.svg",
     "static/media/logo.jpeg": "/americanacademy/static/media/logo.ecc1766d.jpeg"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.c39b648d.js",
     "static/css/2.69121389.chunk.css",
     "static/js/2.c0588b0b.chunk.js",
-    "static/css/main.4b3b48f6.chunk.css",
+    "static/css/main.f0be4c55.chunk.css",
     "static/js/main.6f908b5f.chunk.js"
   ]
 }
